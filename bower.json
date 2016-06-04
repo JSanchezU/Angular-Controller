@@ -1,0 +1,20 @@
+{
+  "name": "Angular-Controller",
+  "description": "Practica controller",
+  "main": "index.html",
+  "keywords": [
+    "Angular"
+  ],
+  "authors": [
+    "Javier Sanchez"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
